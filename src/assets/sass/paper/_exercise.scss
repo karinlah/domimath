@@ -1,0 +1,25 @@
+.practise {
+  .icon-container {
+    width: 10%;
+    cursor: pointer;
+  }
+  .exercise {
+    text-align: right;
+    padding-bottom: 50px;
+
+    img {
+      max-width: 500px;
+      max-height: 500px;
+    }
+  }
+}
+
+.community {
+  text-align: left;
+  max-width: 700px;
+  padding: 14px;
+}
+
+.sol-star {
+  align-items: left;
+}
